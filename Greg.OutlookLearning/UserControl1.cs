@@ -14,6 +14,8 @@ namespace Greg.OutlookLearning
         public UserControl1()
         {
             InitializeComponent();
+
+            
         }
     }
 }
